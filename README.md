@@ -1,1 +1,3 @@
-# KNN-Classifier-Lakalantas-2025
+Nama : Ahmad Riko Dyansyah
+NBI : 1462400002
+Matakuliah : Machine Learning
